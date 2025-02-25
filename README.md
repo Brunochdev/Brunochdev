@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou o Bruno Lucio Chagas Sêga | I'm Bruno Lúcio Chagas Sêga 👋
 
-<!--
-**Brunochdev/Brunochdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente, trabalho como repórter de dados na Genius Sports | I'm currently working as a data reporter at Genius Sports  
 
-Here are some ideas to get you started:
+🔄 Migrando da engenharia civil para a área de tecnologia, com foco em QA | Transitioning from civil engineering to the tech industry, focusing on QA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Aprendendo sobre automação de testes com Cypress, Playwright, APIs e processos de qualidade | Learning about test automation with Cypress, Playwright, APIs, and quality processes  
+
+👯 Procuro colaborar com a parte de qualidade nos projetos | I'm looking to collaborate on quality assurance in projects  
+
+📫 Você pode me encontrar no LinkedIn: [Bruno Chagas](https://www.linkedin.com/in/bruno-chagas-s/) | You can reach me on LinkedIn: [Bruno Chagas](https://www.linkedin.com/in/bruno-chagas-s/)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunochdev&layout=compact)
+
+## 🚀 Tecnologias | Technologies  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
