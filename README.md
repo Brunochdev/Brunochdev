@@ -1,8 +1,8 @@
 ## 👋 Sobre mim | About me  
 
-💼 Atualmente, trabalho como repórter de dados na Genius Sports | I'm currently working as a data reporter at Genius Sports  
-
 🔄 Migrando da engenharia civil para a área de tecnologia, com foco em QA | Transitioning from civil engineering to the tech industry, focusing on QA  
+
+💼 Trabalhei como repórter de dados na Genius Sports por mais de quatro anos | Worked as a data reporter at Genius Sports for more than four years  
 
 🌱 Aprendendo sobre automação de testes com Cypress, Playwright, APIs e processos de qualidade | Learning about test automation with Cypress, Playwright, APIs, and quality processes  
 
